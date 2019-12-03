@@ -13,8 +13,6 @@ The funnel analysis illustrates the theoretical customer journey from the landin
 **Last-touch** attribution only considers the last source for each customer. This a a good way of knowing how visitors are drawn back to a website, especially for making a final purchase.
 
 ## Step 1. Get familar with the tables
-
-There are 1986 users participating the survey--> 1000 users participate the quiz --> 750 users have the home-try-on --> 495 users make the purchae
 ```sql
 /*
 SELECT * FROM page_visits 
